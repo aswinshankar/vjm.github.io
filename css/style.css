@@ -527,7 +527,7 @@ select option {
       color: #15191c;
 }
 .welcome-top p {
-        font-size: 0.9em;
+        font-size: 1.3em;
     line-height: 1.9em;
     color: #777;
     margin: 1em 0 2em 0;
@@ -648,11 +648,11 @@ img.zoom-img {
 	border-bottom:3px solid #f067ae;
 }
 .registry-text h4 {
-       font-size: 2.5em;
+       font-size: 4em;
     color: #f067ae;
 }
 .registry-text h6 {
-    font-size:1.8em;
+    font-size:2.2em;
     color:#fff;
 	margin-top:1em;
 }
