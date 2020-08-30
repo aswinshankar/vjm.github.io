@@ -767,11 +767,11 @@ h3.tittle.atd {
     margin-top: 0.5em;
 }
 .rsvp {
-   width: 25%;
+   width: 40%%;
     margin: 0 auto;
     background: #fff;
     padding-bottom: 3px;
-    position: absolute;
+
     top: 23%;
     left: 41%;
     padding: 2em 2em;
@@ -1519,8 +1519,8 @@ ul.bottom i {
 		left: 42em;
 	}
 	.rsvp {
-		width: 27%;
-		margin: 0 auto;
+		width: 38%;
+		margin: 50 auto 50 auto ;
 		top: 23%;
 		left: 37%;
 		padding: 2em 2em;
