@@ -3281,7 +3281,7 @@ ul.bottom i {
 }
 #ccc{display: block;}
 #ddd{display: none;}
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
 
   #ccc{display: none;;}
   #ddd{display: block;}
