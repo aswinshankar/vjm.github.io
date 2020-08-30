@@ -3279,3 +3279,10 @@ ul.bottom i {
 .egt{
   height: 400px;
 }
+.mob{
+  display: none;
+}
+@media (max-width: 400px) {
+  .web{display: none;}
+  .mob{display: inline-block;}
+}
