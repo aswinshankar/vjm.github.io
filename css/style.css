@@ -3282,7 +3282,3 @@ ul.bottom i {
 .mob{
   display: none;
 }
-@media (max-width: 400px) {
-  .web{display: none;}
-  .mob{display: inline-block;}
-}
