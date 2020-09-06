@@ -3299,7 +3299,7 @@ ul.bottom i {
 }
 .main-drop h4{
   font-family: 'Baloo Thambi 2', cursive;
-  font-size: 2.5rem;
+
 }
 .main-drop h4{
   font-family: 'Baloo Thambi 2', cursive;
@@ -3313,4 +3313,18 @@ ul.bottom i {
 .registry-section h3{
   font-family: 'Baloo Thambi 2', cursive;
   font-size: 3rem;
+}
+@media screen and (max-width: 800px) {
+
+  .dsd{
+    font-size: 1rem;
+  }
+
+}
+@media screen and (max-width: 800px) {
+
+  .bcc{
+    font-size: 1rem;
+  }
+
 }
