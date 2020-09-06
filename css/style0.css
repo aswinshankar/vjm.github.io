@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
  font-family: 'Baloo Thambi 2', cursive;
- font-size: 100%;
+ 
  background: #FFf;
 }
 
@@ -1720,9 +1720,7 @@ ul.bottom i {
 		text-align: center;
 		margin: 0 auto;
 	}
-	.couple img{
-	  width: 51%;
-	}
+
 	.hands h4 {
 		font-size: 2.4em;
 		margin-bottom: 11px;
@@ -2111,7 +2109,7 @@ ul.bottom i {
 		font-size: 1.4em;
 	}
 	.couple img {
-		width: 42%;
+		width: 60%;
 	}
 	.groom, .bride {
 		padding: 1em 0.35em;
@@ -3315,7 +3313,9 @@ ul.bottom i {
   #bcc{
     font-size: 1rem;
   }
-
+.couple h5{
+    font-size: .7rem;
+}
 }
 
 
