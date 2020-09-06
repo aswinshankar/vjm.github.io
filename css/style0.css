@@ -3324,7 +3324,21 @@ ul.bottom i {
 @media screen and (max-width: 800px) {
 
   .bcc{
-    font-size: 1rem;
+    font-size: .5rem;
+  }
+
+}
+@media screen and (max-width: 900px) {
+
+  .bcc{
+    font-size: .5rem;
+  }
+
+}
+@media screen and (max-width: 1000px) {
+
+  .bcc{
+    font-size: .5rem;
   }
 
 }
