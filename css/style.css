@@ -1247,6 +1247,7 @@ p.para1{
      color: #777;
     font-size: 1.3em;
     line-height: 1.9em;
+    padding-left: 20px;
 }
 address {
    width: 100%;
