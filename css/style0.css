@@ -242,6 +242,9 @@ nav a:focus {
 		     padding: 4px 0px;
     margin: 0 0 1em 0;
 	}
+  #sdfg{
+    padding-left: 0px;
+  }
 }
 /*--start-home--*/
 .header-top {
@@ -1592,6 +1595,9 @@ ul.bottom i {
 	.welcome-top {
 		padding: 5em 0 5em 21em;
 	}
+  #fghj{
+    padding-left: 130px;
+  }
 	.banner-info {
 		margin-top: 5em;
 		text-align: center;
@@ -2032,7 +2038,11 @@ ul.bottom i {
 		left: 360px;
 		width: 16px;
 		height: 16px;
+
 	}
+  #sdfg{
+    padding-left: 0px;
+  }
 }
 @media (max-width:736px){
 	.groom, .bride {
@@ -3326,6 +3336,32 @@ ul.bottom i {
 
   #bcc{
     font-size: 3rem;
+  }
+
+}
+@@media screen and (max-width:500px) {
+  #dddd{
+    <div class="logo">
+      <a href="index.html"><h1>Our<span> Wedding</span></h1></a>
+    </div>
+
+    <span class="menu"> </span>
+
+        <div class="top-menu">
+
+        <ul class="cl-effect-7">
+            <li><a class="active" href="index.html">Home</a></li>
+
+            <li><a href="ceremony.html">Ceremony</a></li>
+
+            <li><a href="contact.html">contact</a></li>
+
+          </ul>
+
+
+         </div>
+         <li style="font-size: 1.3rem;padding-top: 15px;"><a href="index(1).html" style="padding-left: 0px;">தமிழ்</a></li>
+
   }
 
 }
