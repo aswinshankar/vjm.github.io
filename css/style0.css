@@ -2118,7 +2118,9 @@ ul.bottom i {
 	.couple h5 {
 		font-size: 1.4em;
 	}
-	
+	.couple img {
+		width: 60%;
+	}
 	.groom, .bride {
 		padding: 1em 0.35em;
 	}
@@ -2274,7 +2276,7 @@ ul.bottom i {
 		margin: 0 auto;
 	}
   .main-drop .hjkl {
-    width: 37.8%;
+    width: 37.5%;
   }
   }
 	.hands h4 {
@@ -2287,7 +2289,7 @@ ul.bottom i {
     font-weight: 500;
 	}
 	.groom, .bride {
-		padding: 1em 0em;
+		
 		width: 99%;
 	}
 	.couple h5 {

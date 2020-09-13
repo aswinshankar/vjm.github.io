@@ -2105,7 +2105,9 @@ ul.bottom i {
 	.couple h5 {
 		font-size: 1.4em;
 	}
-	
+	.couple img {
+		width: 42%;
+	}
 	.groom, .bride {
 		padding: 1em 0.35em;
 	}
