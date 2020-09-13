@@ -3329,7 +3329,15 @@ ul.bottom i {
     font-size: .7rem;
 }
 }
+@media screen and (max-width: 600px) {
+  .dsd{
+    font-size: 1rem;
+  }
 
+.couple h5{
+    font-size: .5rem;
+}
+}
 
 }
 @media screen and (min-width: 801px) {
