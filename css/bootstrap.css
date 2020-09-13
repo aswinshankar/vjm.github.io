@@ -267,6 +267,7 @@ th {
           box-sizing: border-box;
 }
 html {
+  font-size: 62.5%;
 
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -767,7 +768,6 @@ pre code {
   padding-right: 15px;
   padding-left: 15px;
 }
-
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
   float: left;
 }
@@ -1112,9 +1112,7 @@ pre code {
   }
   .col-md-4 {
     width: 33.33333333%;
-
   }
-
   .col-md-3 {
     width: 25%;
   }
