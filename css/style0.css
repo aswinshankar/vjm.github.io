@@ -3309,7 +3309,9 @@ ul.bottom i {
   font-size: 3rem;
 }
 @media screen and (max-width: 800px) {
-
+  .dsd{
+    font-size: 1.6rem;
+  }
   #bcc{
     font-size: 1rem;
   }
