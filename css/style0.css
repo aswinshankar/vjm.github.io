@@ -2617,6 +2617,9 @@ ul.bottom i {
 .blog-right h4, .blog-left h4 {
 		font-size: 2em;
 	}
+  .main-drop .hjkl {
+    width: 30.5%;
+  }
 	.blog-left p {
 		font-size: 0.8755em;
 		width: 100%;
