@@ -2620,6 +2620,10 @@ ul.bottom i {
   .main-drop .hjkl {
     width: 30.5%;
   }
+  .hands h4 {
+		font-size: .8em;
+		margin-bottom: 11px;
+	}
 	.blog-left p {
 		font-size: 0.8755em;
 		width: 100%;
