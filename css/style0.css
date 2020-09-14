@@ -2289,7 +2289,7 @@ ul.bottom i {
     font-weight: 500;
 	}
 	.groom, .bride {
-		
+
 		width: 99%;
 	}
 	.couple h5 {
@@ -2332,6 +2332,9 @@ ul.bottom i {
 		font-size: 1.4em;
 		margin-bottom: 11px;
 	}
+  .main-drop .hjkl {
+    width: 30.5%;
+  }
 	select {
 		width: 100%;
 		font-size: 0.7em;
